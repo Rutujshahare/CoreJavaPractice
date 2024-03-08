@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vndratosrs
+ *
+ */
+module JavaBasicFundemental {
+}
